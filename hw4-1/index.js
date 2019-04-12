@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'How proud Achilles glories in his fame!',
   'example4':
       'Huck was silent for some time, engaged in a mental struggle.'
 };
